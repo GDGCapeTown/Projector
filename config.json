@@ -1,0 +1,42 @@
+{
+
+	"title": "ScaleConf 2014",
+	"description": "",
+	"keywords": [ "", "", "" ],
+	"slideshow": [
+
+		{
+
+			"name": "First Project",
+			"description": "Desc of Project",
+			"images": [
+
+				"Image to product"
+
+			],
+			"logo": "Logo of Product",
+			"tech_used": [
+
+				"java",
+				"python",
+				"app engine"
+
+			],
+			"developers": [
+
+				{
+
+					"name": "Johann du Toit",
+					"avatar": "",
+					"website": "johanndutoit.net",
+					"twitter": "Johann_du_toit"
+
+				}
+
+			]
+
+		}
+
+	]
+
+}
